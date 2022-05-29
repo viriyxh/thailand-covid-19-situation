@@ -1,7 +1,7 @@
 {
   "name": "thailand-covid-19-situation",
   "version": "1.0.0",
-  "description": "Thailand COVID-19 map and case count.",
+  "description": "Thailand COVID-19 situation map and case count.",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
