@@ -1,0 +1,23 @@
+{
+  "name": "thailand-covid-19-situation",
+  "version": "1.0.0",
+  "description": "Thailand COVID-19 map and case count.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "author": "Viriyah",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "bootstrap": "^5.1.3",
+    "chart.js": "^3.8.0",
+    "next": "^12.1.6",
+    "react": "^18.1.0",
+    "react-bootstrap": "^2.4.0",
+    "react-chartjs-2": "^4.1.0",
+    "react-dom": "^18.1.0"
+  }
+}

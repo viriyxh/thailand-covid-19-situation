@@ -1,0 +1,107 @@
+.wrapper {
+  position: relative;
+}
+
+#chartWrapper,
+#mapWrapper {
+  width: 100%;
+}
+
+#mapWrapper {
+  height: 500px !important;
+}
+
+#map {
+  width: 100% !important;
+  height: 100% !important;
+}
+
+.textMain {
+  color: #617be3 !important;
+}
+.textLight {
+  color: #fafbff !important;
+}
+.textDark {
+  color: #393e46 !important;
+}
+.textPrimary {
+  color: #46b4e6 !important;
+}
+.textSuccess {
+  color: #0ae6a0 !important;
+}
+.textWarning {
+  color: #e6b400 !important;
+}
+.textDanger {
+  color: #e65a6e !important;
+}
+
+.card {
+  border-style: none;
+  box-shadow: 0 0 2rem 0 rgba(57, 62, 70, 0.1);
+}
+
+.title {
+  padding: 0;
+  margin: 0;
+}
+.title .titleTypography {
+  font-size: 2.5rem;
+  font-weight: 700;
+  padding: 0;
+  margin: 0;
+}
+.title .subtitleTypography {
+  font-size: 1.5rem;
+  font-weight: 700;
+  padding: 0;
+  margin: 0;
+}
+
+.subtitle {
+  padding: 0;
+  margin: 0;
+}
+.subtitle .titleTypography {
+  font-size: 1.5rem;
+  font-weight: 700;
+  padding: 0;
+  margin: 0;
+}
+.subtitle .subtitleTypography {
+  font-size: 1rem;
+  font-weight: 700;
+  padding: 0;
+  margin: 0;
+}
+
+.bullets {
+  width: 11px;
+  height: 11px;
+}
+
+.jvectormap-container {
+  height: 100% !important;
+}
+
+#back-button {
+  width: 4rem;
+  height: 4rem;
+  position: fixed;
+  right: 2rem;
+  bottom: 2rem;
+  border-radius: 100px;
+  color: #fafbff;
+  background-color: #617be3;
+  box-shadow: 0 0 2rem 0 rgb(57 62 70 / 30%);
+  z-index: 1001;
+}
+
+.footer {
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue",
+    Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  background-color: #f8f9fa;
+}
